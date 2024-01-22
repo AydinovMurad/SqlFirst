@@ -1,0 +1,30 @@
+--CREATE DATABASE Academy
+--USE Academy
+--CREATE TABLE Students 
+--(
+--[Name] NVARCHAR(30),
+--Surname NVARCHAR(30),
+--Age INT,
+--[Group] NVARCHAR(30)
+--)
+--CREATE TABLE Teachers 
+--(
+--[Name] NVARCHAR(30),
+--Surname NVARCHAR(30),
+--[Group] NVARCHAR(30)
+--)
+--INSERT INTO Students VALUES
+--('Murad','Aydinov',19,'P273'), ('Togrul','Huseynli',21,'P273')
+--INSERT INTO Teachers VALUES
+--('Ahad','Taghiyev','P273'), ('Huseyn ','Mirzayev','P273')
+--SELECT * from Students
+--INSERT INTO Students VALUES
+--('Kamran','Hesenov',20,'P273')
+--SELECT * from Students
+--UPDATE Students
+--	Set Age=100
+--	where [Name]='Murad'
+--SELECT * from Students
+--DELETE Students 
+--where Age=20
+--SELECT * from Teachers
